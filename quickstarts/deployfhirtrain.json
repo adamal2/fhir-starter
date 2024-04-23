@@ -637,6 +637,7 @@
           {
             "category": "Transaction",
             "enabled": true
+          }
         ]
       },
       "dependsOn": [
