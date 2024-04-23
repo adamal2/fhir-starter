@@ -256,21 +256,13 @@
         "logs": [
           {
             "category": "Audit",
-            "enabled": true,
-            "retentionPolicy": {
-              "days": 7,
-              "enabled": true
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "AllMetrics",
-            "enabled": true,
-            "retentionPolicy": {
-              "days": 7,
-              "enabled": true
-            }
+            "enabled": true
           }
         ]
       },
@@ -313,21 +305,13 @@
         "logs": [
           {
             "categoryGroup": "allLogs",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "AllMetrics",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -425,11 +409,7 @@
         "metrics": [
           {
             "category": "Transaction",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -448,29 +428,17 @@
         "logs": [
           {
             "categoryGroup": "allLogs",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           },
           {
             "categoryGroup": "audit",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "Transaction",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -489,29 +457,17 @@
         "logs": [
           {
             "categoryGroup": "allLogs",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           },
           {
             "categoryGroup": "audit",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "Transaction",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -530,29 +486,17 @@
         "logs": [
           {
             "categoryGroup": "allLogs",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           },
           {
             "categoryGroup": "audit",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "Transaction",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -571,29 +515,17 @@
         "logs": [
           {
             "categoryGroup": "allLogs",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           },
           {
             "categoryGroup": "audit",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "Transaction",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -704,12 +636,7 @@
         "metrics": [
           {
             "category": "Transaction",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
-          }
+            "enabled": true
         ]
       },
       "dependsOn": [
@@ -727,29 +654,17 @@
         "logs": [
           {
             "categoryGroup": "allLogs",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           },
           {
             "categoryGroup": "audit",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "Transaction",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -768,29 +683,17 @@
         "logs": [
           {
             "categoryGroup": "allLogs",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           },
           {
             "categoryGroup": "audit",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "Transaction",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -809,29 +712,17 @@
         "logs": [
           {
             "categoryGroup": "allLogs",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           },
           {
             "categoryGroup": "audit",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "Transaction",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -850,29 +741,17 @@
         "logs": [
           {
             "categoryGroup": "allLogs",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           },
           {
             "categoryGroup": "audit",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "Transaction",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -982,11 +861,7 @@
         "metrics": [
           {
             "category": "Transaction",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -1005,29 +880,17 @@
         "logs": [
           {
             "categoryGroup": "allLogs",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           },
           {
             "categoryGroup": "audit",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "Transaction",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -1046,29 +909,17 @@
         "logs": [
           {
             "categoryGroup": "allLogs",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           },
           {
             "categoryGroup": "audit",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "Transaction",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -1087,29 +938,17 @@
         "logs": [
           {
             "categoryGroup": "allLogs",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           },
           {
             "categoryGroup": "audit",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "Transaction",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -1128,29 +967,17 @@
         "logs": [
           {
             "categoryGroup": "allLogs",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           },
           {
             "categoryGroup": "audit",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "Transaction",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -1183,29 +1010,17 @@
         "logs": [
           {
             "categoryGroup": "allLogs",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           },
           {
             "categoryGroup": "audit",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "AllMetrics",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -1260,21 +1075,13 @@
         "logs": [
           {
             "categoryGroup": "allLogs",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "AllMetrics",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -1416,29 +1223,17 @@
         "logs": [
           {
             "categoryGroup": "allLogs",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           },
           {
             "categoryGroup": "audit",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "AllMetrics",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -1471,11 +1266,7 @@
         "metrics": [
           {
             "category": "AllMetrics",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -1519,21 +1310,13 @@
         "logs": [
           {
             "category": "FunctionAppLogs",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "AllMetrics",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -1577,21 +1360,13 @@
         "logs": [
           {
             "category": "FunctionAppLogs",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "AllMetrics",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -1640,21 +1415,13 @@
         "logs": [
           {
             "categoryGroup": "allLogs",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "AllMetrics",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -1673,21 +1440,13 @@
         "logs": [
           {
             "categoryGroup": "allLogs",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "AllMetrics",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
@@ -1908,21 +1667,13 @@
         "logs": [
           {
             "categoryGroup": "allLogs",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ],
         "metrics": [
           {
             "category": "AllMetrics",
-            "enabled": true,
-            "retentionPolicy": {
-              "enabled": true,
-              "days": 7
-            }
+            "enabled": true
           }
         ]
       },
